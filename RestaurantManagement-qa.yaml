@@ -11,4 +11,4 @@ spring:
 server:
   port: 8300
 food:
-  discount:  30  
+  discount:  40  
